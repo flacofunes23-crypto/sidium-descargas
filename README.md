@@ -5,5 +5,5 @@ Acá se publican los instaladores oficiales de **SIDIUM**, la app de los policí
 **Bajala siempre desde la página oficial: https://sidium.pages.dev**
 
 - SIDIUM nunca te llega como archivo suelto por WhatsApp ni por otro medio.
-- Para entrar a la app hace falta el código de un compañero o tu recibo de sueldo.
+- Para entrar, verificás que sos policía con el código de un compañero o tu bono de sueldo.
 - Contacto: sidium.26@gmail.com
